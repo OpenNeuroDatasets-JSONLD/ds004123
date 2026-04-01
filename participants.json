@@ -7,5 +7,15 @@
   },
   "legacy_labID": {
     "Description": "labID used to reference the subject in ESS"
+  },
+  "participant_id": {
+    "Description": "",
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:ParticipantID",
+        "Label": "Participant ID"
+      },
+      "VariableType": "Identifier"
+    }
   }
 }
